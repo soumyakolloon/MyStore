@@ -1,0 +1,13 @@
+2015-02-12 9:45:00 - PHP Warning:  fopen(/var/www/html/MyStore/system/modification/system/engine/action.php): failed to open stream: No such file or directory in /var/www/html/MyStore/admin/controller/extension/modification.php on line 408
+2015-02-12 9:45:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 410
+2015-02-12 9:45:00 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 412
+2015-02-12 9:45:00 - PHP Warning:  fopen(/var/www/html/MyStore/system/modification/system/engine/loader.php): failed to open stream: No such file or directory in /var/www/html/MyStore/admin/controller/extension/modification.php on line 408
+2015-02-12 9:45:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 410
+2015-02-12 9:45:00 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 412
+2015-02-12 9:45:00 - PHP Warning:  fopen(/var/www/html/MyStore/system/modification/system/library/config.php): failed to open stream: No such file or directory in /var/www/html/MyStore/admin/controller/extension/modification.php on line 408
+2015-02-12 9:45:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 410
+2015-02-12 9:45:00 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 412
+2015-02-12 9:45:00 - PHP Warning:  fopen(/var/www/html/MyStore/system/modification/system/library/language.php): failed to open stream: No such file or directory in /var/www/html/MyStore/admin/controller/extension/modification.php on line 408
+2015-02-12 9:45:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 410
+2015-02-12 9:45:00 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 412
+2015-02-12 9:59:28 - PHP Notice:  Undefined variable: site_key in /var/www/html/MyStore/catalog/view/theme/default/template/information/contact.tpl on line 135
