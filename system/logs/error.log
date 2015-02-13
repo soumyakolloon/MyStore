@@ -1378,3 +1378,120 @@
 2015-02-13 4:39:03 - PHP Warning:  Illegal string offset 'position' in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 70
 2015-02-13 4:39:03 - PHP Warning:  Illegal string offset 'status' in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 77
 2015-02-13 4:39:03 - PHP Warning:  Illegal string offset 'sort_order' in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 85
+2015-02-13 5:27:58 - PHP Notice:  Undefined variable: code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-13 5:27:58 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:29:12 - PHP Notice:  Undefined index: helloworld_code in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 91
+2015-02-13 5:29:12 - PHP Notice:  Undefined variable: code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-13 5:29:12 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:30:17 - PHP Notice:  Undefined index: helloworld_code in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 91
+2015-02-13 5:30:17 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:30:32 - PHP Notice:  Undefined index: helloworld_code in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 91
+2015-02-13 5:30:32 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:30:34 - PHP Notice:  Undefined index: helloworld_code in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 91
+2015-02-13 5:30:34 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:31:34 - PHP Notice:  Undefined index: helloworld_code in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 91
+2015-02-13 5:31:34 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:45:24 - PHP Notice:  Undefined index: helloworld_code in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 91
+2015-02-13 5:45:24 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:45:51 - PHP Notice:  Undefined index: helloworld_code in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 91
+2015-02-13 5:45:51 - PHP Notice:  Undefined variable: code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-13 5:45:51 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:46:10 - PHP Notice:  Undefined variable: code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-13 5:46:10 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:47:12 - PHP Notice:  Undefined variable: code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-13 5:47:12 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:47:14 - PHP Notice:  Undefined variable: code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-13 5:47:14 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:48:13 - PHP Notice:  Undefined index: helloworld_code in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 91
+2015-02-13 5:48:13 - PHP Notice:  Undefined variable: code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-13 5:48:13 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:49:04 - PHP Notice:  Undefined index: helloworld_code in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 91
+2015-02-13 5:49:04 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:50:25 - PHP Notice:  Array to string conversion in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 90
+2015-02-13 5:51:35 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:51:43 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:51:45 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:51:45 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:51:46 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:51:47 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:51:49 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:51:55 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:52:52 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:53:52 - PHP Notice:  Undefined variable: code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-13 5:53:52 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:54:54 - PHP Notice:  Undefined variable: code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-13 5:54:54 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:54:58 - PHP Notice:  Undefined variable: code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-13 5:54:58 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:55:00 - PHP Notice:  Undefined variable: code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-13 5:55:00 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:55:09 - PHP Notice:  Undefined variable: code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-13 5:55:09 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:55:10 - PHP Notice:  Undefined variable: code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-13 5:55:10 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:55:28 - PHP Notice:  Undefined variable: code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-13 5:55:28 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:56:33 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:56:35 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:56:38 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:57:34 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:57:36 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:59:20 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 5:59:29 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 6:04:01 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 6:04:24 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-13 6:05:39 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 42
+2015-02-13 6:10:08 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 42
+2015-02-13 6:10:19 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 42
+2015-02-13 6:18:51 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 42
+2015-02-13 6:19:52 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 42
+2015-02-13 6:20:03 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 42
+2015-02-13 6:21:05 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 42
+2015-02-13 6:23:27 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 42
+2015-02-13 6:33:39 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 42
+2015-02-13 6:35:56 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 42
+2015-02-13 6:37:20 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 42
+2015-02-13 6:38:53 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 42
+2015-02-13 6:39:16 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 42
+2015-02-13 6:41:01 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 42
+2015-02-13 6:42:38 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 43
+2015-02-13 6:42:38 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 44
+2015-02-13 6:44:24 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 44
+2015-02-13 6:44:37 - PHP Notice:  Undefined variable: status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 44
+2015-02-13 7:32:12 - PHP Warning:  fopen(/var/www/html/MyStore/system/modification/system/engine/action.php): failed to open stream: No such file or directory in /var/www/html/MyStore/admin/controller/extension/modification.php on line 408
+2015-02-13 7:32:12 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 410
+2015-02-13 7:32:12 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 412
+2015-02-13 7:32:12 - PHP Warning:  fopen(/var/www/html/MyStore/system/modification/system/engine/loader.php): failed to open stream: No such file or directory in /var/www/html/MyStore/admin/controller/extension/modification.php on line 408
+2015-02-13 7:32:12 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 410
+2015-02-13 7:32:12 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 412
+2015-02-13 7:32:12 - PHP Warning:  fopen(/var/www/html/MyStore/system/modification/system/library/config.php): failed to open stream: No such file or directory in /var/www/html/MyStore/admin/controller/extension/modification.php on line 408
+2015-02-13 7:32:12 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 410
+2015-02-13 7:32:12 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 412
+2015-02-13 7:32:12 - PHP Warning:  fopen(/var/www/html/MyStore/system/modification/system/library/language.php): failed to open stream: No such file or directory in /var/www/html/MyStore/admin/controller/extension/modification.php on line 408
+2015-02-13 7:32:12 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 410
+2015-02-13 7:32:12 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 412
+2015-02-13 7:32:24 - PHP Warning:  fopen(/var/www/html/MyStore/system/modification/system/engine/action.php): failed to open stream: No such file or directory in /var/www/html/MyStore/admin/controller/extension/modification.php on line 408
+2015-02-13 7:32:24 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 410
+2015-02-13 7:32:24 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 412
+2015-02-13 7:32:24 - PHP Warning:  fopen(/var/www/html/MyStore/system/modification/system/engine/loader.php): failed to open stream: No such file or directory in /var/www/html/MyStore/admin/controller/extension/modification.php on line 408
+2015-02-13 7:32:24 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 410
+2015-02-13 7:32:24 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 412
+2015-02-13 7:32:24 - PHP Warning:  fopen(/var/www/html/MyStore/system/modification/system/library/config.php): failed to open stream: No such file or directory in /var/www/html/MyStore/admin/controller/extension/modification.php on line 408
+2015-02-13 7:32:24 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 410
+2015-02-13 7:32:24 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 412
+2015-02-13 7:32:24 - PHP Warning:  fopen(/var/www/html/MyStore/system/modification/system/library/language.php): failed to open stream: No such file or directory in /var/www/html/MyStore/admin/controller/extension/modification.php on line 408
+2015-02-13 7:32:24 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 410
+2015-02-13 7:32:24 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /var/www/html/MyStore/admin/controller/extension/modification.php on line 412
+2015-02-13 10:15:49 - PHP Notice:  Undefined index: name in /var/www/html/MyStore/admin/model/extension/module.php on line 4
+2015-02-13 10:21:32 - PHP Notice:  Undefined index: name in /var/www/html/MyStore/admin/model/extension/module.php on line 4
+2015-02-13 10:30:42 - PHP Notice:  unserialize(): Error at offset 18 of 89 bytes in /var/www/html/MyStore/catalog/model/extension/module.php on line 7
+2015-02-13 10:31:25 - PHP Notice:  unserialize(): Error at offset 18 of 89 bytes in /var/www/html/MyStore/catalog/model/extension/module.php on line 7
+2015-02-13 10:31:26 - PHP Notice:  unserialize(): Error at offset 18 of 89 bytes in /var/www/html/MyStore/catalog/model/extension/module.php on line 7
+2015-02-13 10:31:41 - PHP Notice:  unserialize(): Error at offset 18 of 89 bytes in /var/www/html/MyStore/catalog/model/extension/module.php on line 7
+2015-02-13 10:31:42 - PHP Notice:  unserialize(): Error at offset 18 of 89 bytes in /var/www/html/MyStore/catalog/model/extension/module.php on line 7
+2015-02-13 10:32:01 - PHP Notice:  unserialize(): Error at offset 18 of 89 bytes in /var/www/html/MyStore/catalog/model/extension/module.php on line 7
+2015-02-13 10:32:17 - PHP Notice:  unserialize(): Error at offset 18 of 89 bytes in /var/www/html/MyStore/catalog/model/extension/module.php on line 7
+2015-02-13 10:32:17 - PHP Notice:  unserialize(): Error at offset 18 of 89 bytes in /var/www/html/MyStore/catalog/model/extension/module.php on line 7
+2015-02-13 10:32:18 - PHP Notice:  unserialize(): Error at offset 18 of 89 bytes in /var/www/html/MyStore/catalog/model/extension/module.php on line 7
+2015-02-13 11:38:28 - PHP Notice:  Undefined variable: site_key in /var/www/html/MyStore/catalog/view/theme/default/template/product/product.tpl on line 106
+2015-02-13 11:50:02 - PHP Notice:  Undefined variable: site_key in /var/www/html/MyStore/catalog/view/theme/default/template/product/product.tpl on line 106

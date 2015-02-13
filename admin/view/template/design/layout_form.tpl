@@ -167,7 +167,7 @@ var module_row = <?php echo $module_row; ?>;
 function addModule() {
 	html  = '<tr id="module-row' + module_row + '">';
 	html += '  <td class="text-left"><select name="layout_module[' + module_row + '][code]" class="form-control">';
-	<?php foreach ($extensions as $extension) { ?>    
+	<?php  foreach ($extensions as $extension) { ?>    
 	<?php if (!$extension['module']) { ?>
 	html += '    <option value="<?php echo $extension['code']; ?>"><?php echo addslashes($extension['name']); ?></option>';
 	<?php } else { ?>
