@@ -1495,3 +1495,954 @@
 2015-02-13 10:32:18 - PHP Notice:  unserialize(): Error at offset 18 of 89 bytes in /var/www/html/MyStore/catalog/model/extension/module.php on line 7
 2015-02-13 11:38:28 - PHP Notice:  Undefined variable: site_key in /var/www/html/MyStore/catalog/view/theme/default/template/product/product.tpl on line 106
 2015-02-13 11:50:02 - PHP Notice:  Undefined variable: site_key in /var/www/html/MyStore/catalog/view/theme/default/template/product/product.tpl on line 106
+2015-02-24 5:19:49 - PHP Notice:  Undefined index: separator in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 5
+2015-02-24 5:19:49 - PHP Notice:  Undefined index: separator in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 5
+2015-02-24 5:19:49 - PHP Notice:  Undefined index: separator in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 5
+2015-02-24 5:19:49 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:19:49 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:19:49 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:19:49 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:19:49 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:19:49 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:19:49 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:19:49 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:19:49 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:19:49 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:19:49 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:19:49 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:19:49 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:19:49 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:20:13 - PHP Notice:  Undefined index: separator in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 5
+2015-02-24 5:20:13 - PHP Notice:  Undefined index: separator in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 5
+2015-02-24 5:20:13 - PHP Notice:  Undefined index: separator in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 5
+2015-02-24 5:20:13 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:20:13 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:20:13 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:20:13 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:20:13 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:20:13 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:20:13 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:20:13 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:20:13 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:20:13 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:20:13 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:20:13 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:20:13 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:20:13 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 23
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 25
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 26
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 27
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 28
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 29
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 30
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 32
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 33
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 34
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 35
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 36
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 38
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 39
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 40
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 41
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 48
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 56
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 62
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 64
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 70
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 76
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 84
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 86
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 94
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 98
+2015-02-24 5:22:56 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 110
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 23
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 25
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 26
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 27
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 28
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 29
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 30
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 32
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 33
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 34
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 35
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 36
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 38
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 39
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 40
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 41
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 48
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 56
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 62
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 64
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 70
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 76
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 84
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 86
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 94
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 98
+2015-02-24 5:23:59 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 110
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:23:59 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:23:59 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:23:59 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:23:59 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:25:17 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:25:17 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:25:17 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:25:17 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:25:48 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:25:48 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:25:48 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:25:48 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:28:11 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:28:11 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:28:11 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:28:11 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:28:11 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:28:11 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:28:11 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:34:46 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:34:46 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:34:46 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:34:46 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:34:46 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:34:46 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:34:46 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:34:47 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:34:47 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:34:47 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:34:47 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:34:47 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:34:47 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:34:47 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:34:47 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:34:47 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:34:47 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:34:47 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:34:47 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:34:47 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:35:19 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:35:19 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:35:19 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:35:19 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:35:19 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:35:19 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:35:19 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:40:29 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:40:29 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:40:29 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:40:29 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:41:11 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:41:11 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:41:11 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:41:11 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:41:24 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:41:24 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:41:24 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:41:24 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:41:43 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:41:43 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:41:43 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:41:43 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:43:57 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:43:57 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:43:57 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:43:57 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:44:48 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:44:48 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:44:48 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:44:48 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:48:35 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:48:35 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 38
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: button_add_module in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 90
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:48:35 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 106
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: text_content_top in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 111
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: text_content_bottom in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 112
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: text_column_left in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 113
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: text_column_right in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 114
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: text_enabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 117
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: text_disabled in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 118
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: button_remove in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 121
+2015-02-24 5:48:35 - PHP Notice:  Undefined variable: footer in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 130
+2015-02-24 5:51:59 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 5:51:59 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:51:59 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 5:51:59 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 5:51:59 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 5:51:59 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:51:59 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:51:59 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 5:51:59 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 5:51:59 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 5:51:59 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 5:51:59 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 5:51:59 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 5:51:59 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 5:51:59 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 5:51:59 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 5:51:59 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-24 6:01:03 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 6:01:03 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:01:03 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:01:03 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 6:01:03 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 6:01:03 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:01:03 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:01:03 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:01:03 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 6:01:03 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 6:01:03 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 6:01:03 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 6:01:03 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 6:01:03 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 6:01:03 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 6:01:03 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 6:01:03 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-24 6:01:04 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 6:01:04 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:01:04 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:01:04 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 6:01:04 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 6:01:04 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:01:04 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:01:04 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:01:04 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 6:01:04 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 6:01:04 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 6:01:04 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 6:01:04 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 6:01:04 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 6:01:04 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 6:01:04 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 6:01:04 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-24 6:03:24 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 6:03:24 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:24 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:24 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 6:03:24 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 6:03:24 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:24 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:24 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:24 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 6:03:24 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 6:03:24 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 6:03:24 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 6:03:24 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 6:03:24 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 6:03:24 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 6:03:24 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 6:03:24 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:25 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:25 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:25 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 6:03:25 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-24 6:03:26 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 6:03:26 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:26 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:26 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 6:03:26 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 6:03:26 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:26 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:26 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:26 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 6:03:26 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 6:03:26 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 6:03:26 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 6:03:26 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 6:03:26 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 6:03:26 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 6:03:26 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 6:03:26 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:35 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:35 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 6:03:35 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:36 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:36 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:36 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 6:03:36 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-24 6:03:37 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 6:03:37 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:37 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:37 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 6:03:37 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 6:03:37 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:37 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:37 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:37 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 6:03:37 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 6:03:37 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 6:03:37 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 6:03:37 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 6:03:37 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 6:03:37 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 6:03:37 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 6:03:37 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-24 6:03:44 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 6:03:44 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:44 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:03:44 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 6:03:44 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 6:03:44 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:44 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:44 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:03:44 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 6:03:44 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 6:03:44 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 6:03:44 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 6:03:44 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 6:03:44 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 6:03:44 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 6:03:44 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 6:03:44 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-24 6:10:50 - PHP Notice:  Undefined variable: header in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 1
+2015-02-24 6:10:50 - PHP Notice:  Undefined variable: breadcrumbs in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:10:50 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 4
+2015-02-24 6:10:50 - PHP Notice:  Undefined variable: error_warning in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 8
+2015-02-24 6:10:50 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 13
+2015-02-24 6:10:50 - PHP Notice:  Undefined variable: button_save in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:10:50 - PHP Notice:  Undefined variable: cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:10:50 - PHP Notice:  Undefined variable: button_cancel in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 14
+2015-02-24 6:10:50 - PHP Notice:  Undefined variable: action in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 17
+2015-02-24 6:10:50 - PHP Notice:  Undefined variable: entry_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 20
+2015-02-24 6:10:50 - PHP Notice:  Undefined variable: helloworld_text_field in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 21
+2015-02-24 6:10:50 - PHP Notice:  Undefined variable: error_code in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 22
+2015-02-24 6:10:50 - PHP Notice:  Undefined variable: entry_layout in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 30
+2015-02-24 6:10:50 - PHP Notice:  Undefined variable: entry_position in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 31
+2015-02-24 6:10:50 - PHP Notice:  Undefined variable: entry_status in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 32
+2015-02-24 6:10:50 - PHP Notice:  Undefined variable: entry_sort_order in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 33
+2015-02-24 6:10:50 - PHP Notice:  Undefined variable: modules in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 41
+2015-02-24 6:12:22 - PHP Notice:  Undefined variable: layouts in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 110
+2015-02-24 6:12:22 - PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/MyStore/admin/view/template/module/helloworld.tpl on line 110
+2015-02-24 6:32:26 - PHP Notice:  Indirect modification of overloaded property ControllerModuleHelloworld::$data has no effect in /var/www/html/MyStore/admin/controller/module/helloworld.php on line 86
+2015-02-24 6:44:43 - PHP Notice:  Undefined index: name in /var/www/html/MyStore/admin/controller/module/banner.php on line 155
+2015-02-24 6:44:43 - PHP Notice:  Undefined index: width in /var/www/html/MyStore/admin/controller/module/banner.php on line 159
+2015-02-24 6:44:43 - PHP Notice:  Undefined index: height in /var/www/html/MyStore/admin/controller/module/banner.php on line 163
+2015-02-24 6:44:54 - PHP Notice:  Undefined index: name in /var/www/html/MyStore/admin/controller/module/banner.php on line 155
+2015-02-24 6:44:54 - PHP Notice:  Undefined index: width in /var/www/html/MyStore/admin/controller/module/banner.php on line 159
+2015-02-24 6:44:54 - PHP Notice:  Undefined index: height in /var/www/html/MyStore/admin/controller/module/banner.php on line 163
+2015-02-24 8:55:14 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/catalog/view/theme/mycustomtheme/template/common/home.tpl on line 9
+2015-02-24 8:55:58 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/catalog/view/theme/mycustomtheme/template/common/home.tpl on line 9

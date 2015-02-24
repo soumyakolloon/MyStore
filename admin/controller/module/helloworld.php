@@ -62,7 +62,11 @@ class ControllerModuleHelloworld extends Controller {
 			'href' => $this->url->link('module/helloworld', 'token=' . $this->session->data['token'], 'SSL')
 		);
 
-		$data['action'] = $this->url->link('module/helloworld', 'token=' . $this->session->data['token'], 'SSL');
+		if (!isset($this->request->get['module_id'])) {
+			$data['action'] = $this->url->link('module/helloworld', 'token=' . $this->session->data['token'], 'SSL');
+		} else {
+			$data['action'] = $this->url->link('module/helloworld', 'token=' . $this->session->data['token'] . '&module_id=' . $this->request->get['module_id'], 'SSL');
+		}
 
 		$data['cancel'] = $this->url->link('extension/module', 'token=' . $this->session->data['token'], 'SSL');
 
@@ -81,7 +85,9 @@ class ControllerModuleHelloworld extends Controller {
 		}
 		
 		
-		
+		$this->load->model('design/layout'); // Loading the Design Layout Models
+ 
+		$data['layouts'] = $this->model_design_layout->getLayouts(); // Getting all the Layouts available on system
 		$data['header'] = $this->load->controller('common/header');
 		$data['column_left'] = $this->load->controller('common/column_left');
 		$data['footer'] = $this->load->controller('common/footer');
