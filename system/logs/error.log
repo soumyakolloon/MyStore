@@ -2446,3 +2446,10 @@
 2015-02-24 6:44:54 - PHP Notice:  Undefined index: height in /var/www/html/MyStore/admin/controller/module/banner.php on line 163
 2015-02-24 8:55:14 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/catalog/view/theme/mycustomtheme/template/common/home.tpl on line 9
 2015-02-24 8:55:58 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/catalog/view/theme/mycustomtheme/template/common/home.tpl on line 9
+2015-02-24 9:53:41 - PHP Notice:  Error: Could not load template /var/www/html/MyStore/catalog/view/theme/default/template/test/testfile.tpl! in /var/www/html/MyStore/system/engine/loader.php on line 45
+2015-02-24 10:08:58 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/catalog/view/theme/mycustomtheme/template/common/home.tpl on line 9
+2015-02-24 10:09:26 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/catalog/view/theme/mycustomtheme/template/common/home.tpl on line 9
+2015-02-24 10:11:27 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/catalog/view/theme/mycustomtheme/template/common/home.tpl on line 9
+2015-02-24 10:11:46 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/catalog/view/theme/mycustomtheme/template/common/home.tpl on line 9
+2015-02-24 10:11:50 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/catalog/view/theme/mycustomtheme/template/common/home.tpl on line 9
+2015-02-24 10:11:51 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/catalog/view/theme/mycustomtheme/template/common/home.tpl on line 9
