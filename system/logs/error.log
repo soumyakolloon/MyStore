@@ -2575,3 +2575,16 @@
 2015-02-25 6:52:53 - PHP Warning:  include(): Failed opening '../footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/html/MyStore/catalog/view/theme/default/template/module/page_nav.tpl on line 68
 2015-02-25 7:04:18 - PHP Notice:  Undefined variable: site_key in /var/www/html/MyStore/catalog/view/theme/default/template/product/product.tpl on line 106
 2015-02-25 7:04:59 - PHP Notice:  Undefined variable: site_key in /var/www/html/MyStore/catalog/view/theme/default/template/product/product.tpl on line 106
+2015-02-25 7:08:34 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/catalog/view/theme/mycustomtheme/template/common/home.tpl on line 9
+2015-02-25 7:09:39 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/catalog/view/theme/mycustomtheme/template/common/home.tpl on line 9
+2015-02-25 7:11:11 - PHP Notice:  Error: Could not load template /var/www/html/MyStore/catalog/view/theme/default/template/common/column_left.tpl! in /var/www/html/MyStore/system/engine/loader.php on line 45
+2015-02-25 7:11:24 - PHP Notice:  Error: Could not load template /var/www/html/MyStore/catalog/view/theme/default/template/module/helloworld.tpl! in /var/www/html/MyStore/system/engine/loader.php on line 45
+2015-02-25 7:11:28 - PHP Notice:  Error: Could not load template /var/www/html/MyStore/catalog/view/theme/default/template/module/helloworld.tpl! in /var/www/html/MyStore/system/engine/loader.php on line 45
+2015-02-25 7:11:48 - PHP Notice:  Error: Could not load template /var/www/html/MyStore/catalog/view/theme/default/template/module/helloworld.tpl! in /var/www/html/MyStore/system/engine/loader.php on line 45
+2015-02-25 7:12:16 - PHP Notice:  Error: Could not load template /var/www/html/MyStore/catalog/view/theme/default/template/common/column_left.tpl! in /var/www/html/MyStore/system/engine/loader.php on line 45
+2015-02-25 7:12:17 - PHP Notice:  Error: Could not load template /var/www/html/MyStore/catalog/view/theme/default/template/common/column_left.tpl! in /var/www/html/MyStore/system/engine/loader.php on line 45
+2015-02-25 7:12:17 - PHP Notice:  Error: Could not load template /var/www/html/MyStore/catalog/view/theme/default/template/common/column_left.tpl! in /var/www/html/MyStore/system/engine/loader.php on line 45
+2015-02-25 7:12:18 - PHP Notice:  Error: Could not load template /var/www/html/MyStore/catalog/view/theme/default/template/common/column_left.tpl! in /var/www/html/MyStore/system/engine/loader.php on line 45
+2015-02-25 7:12:18 - PHP Notice:  Error: Could not load template /var/www/html/MyStore/catalog/view/theme/default/template/common/column_left.tpl! in /var/www/html/MyStore/system/engine/loader.php on line 45
+2015-02-25 7:13:03 - PHP Notice:  Error: Could not load template /var/www/html/MyStore/catalog/view/theme/default/template/product/category.tpl! in /var/www/html/MyStore/system/engine/loader.php on line 45
+2015-02-25 7:14:01 - PHP Notice:  Error: Could not load template /var/www/html/MyStore/catalog/view/theme/default/template/product/category.tpl! in /var/www/html/MyStore/system/engine/loader.php on line 45

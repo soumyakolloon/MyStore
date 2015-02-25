@@ -8,7 +8,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title><?php echo $title; ?></title>
+<title><?php //echo $title; ?></title>
 <base href="<?php echo $base; ?>" />
 <?php if ($description) { ?>
 <meta name="description" content="<?php echo $description; ?>" />
@@ -28,7 +28,7 @@
 <script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 <link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 <link href="//fonts.googleapis.com/css?family=Open+Sans:400,400i,300,700" rel="stylesheet" type="text/css" />
-<link href="catalog/view/theme/mycustomtheme/stylesheet/stylesheet.css" rel="stylesheet">
+<link href="catalog/view/theme/mycustomtheme/stylesheet/style.css" rel="stylesheet">
 <?php foreach ($styles as $style) { ?>
 <link href="<?php echo $style['href']; ?>" type="text/css" rel="<?php echo $style['rel']; ?>" media="<?php echo $style['media']; ?>" />
 <?php } ?>
@@ -39,15 +39,25 @@
 <?php echo $google_analytics; ?>
 </head>
 <body class="<?php echo $class; ?>">
-<nav id="top">
-  <div class="container">
-    <?php echo $currency; ?>
-    <?php echo $language; ?>
-    <div id="top-links" class="nav pull-right">
-      <ul class="list-inline">
-        <li><a href="<?php echo $contact; ?>"><i class="fa fa-phone"></i></a> <span class="hidden-xs hidden-sm hidden-md"><?php echo $telephone; ?></span></li>
-        <li class="dropdown"><a href="<?php echo $account; ?>" title="<?php echo $text_account; ?>" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> <span class="hidden-xs hidden-sm hidden-md"><?php echo $text_account; ?></span> <span class="caret"></span></a>
-          <ul class="dropdown-menu dropdown-menu-right">
+<div id="templatemo_container">
+    
+        <div id="logo">
+          <?php if ($logo) { ?>
+          <a href="<?php echo $home; ?>"><img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" class="img-responsive" /></a>
+          <?php } else { ?>
+          <h1><a href="<?php echo $home; ?>"><?php echo $name; ?></a></h1>
+          <?php } ?>
+        </div>
+      
+      <div class="col-sm-5" style="margin-left: 310px;margin-top: -91px;"><?php echo $search; ?>
+      </div>
+      <div class="col-sm-3" style="margin-left: 706px;;margin-top: -91px;" ><?php echo $cart; ?></div>
+    </div>
+  </div>
+
+<div id="templatemo_container">
+	<div id="templatemo_menu">
+    	<ul>
             <?php if ($logged) { ?>
             <li><a href="<?php echo $account; ?>"><?php echo $text_account; ?></a></li>
             <li><a href="<?php echo $order; ?>"><?php echo $text_order; ?></a></li>
@@ -58,41 +68,22 @@
             <li><a href="<?php echo $register; ?>"><?php echo $text_register; ?></a></li>
             <li><a href="<?php echo $login; ?>"><?php echo $text_login; ?></a></li>
             <?php } ?>
-          </ul>
-        </li>
-        <li><a href="<?php echo $wishlist; ?>" id="wishlist-total" title="<?php echo $text_wishlist; ?>"><i class="fa fa-heart"></i> <span class="hidden-xs hidden-sm hidden-md"><?php echo $text_wishlist; ?></span></a></li>
-        <li><a href="<?php echo $shopping_cart; ?>" title="<?php echo $text_shopping_cart; ?>"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs hidden-sm hidden-md"><?php echo $text_shopping_cart; ?></span></a></li>
-        <li><a href="<?php echo $checkout; ?>" title="<?php echo $text_checkout; ?>"><i class="fa fa-share"></i> <span class="hidden-xs hidden-sm hidden-md"><?php echo $text_checkout; ?></span></a></li>
-      </ul>
+    	</ul>
+    </div> 
+    
     </div>
-  </div>
-</nav>
-<header>
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-4">
-        <div id="logo">
-          <?php if ($logo) { ?>
-          <a href="<?php echo $home; ?>"><img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" class="img-responsive" /></a>
-          <?php } else { ?>
-          <h1><a href="<?php echo $home; ?>"><?php echo $name; ?></a></h1>
-          <?php } ?>
-        </div>
-      </div>
-      <div class="col-sm-5"><?php echo $search; ?>
-      </div>
-      <div class="col-sm-3"><?php echo $cart; ?></div>
-    </div>
-  </div>
-</header>
-<?php if ($categories) { ?>
-<div class="container">
-  <nav id="menu" class="navbar">
-    <div class="navbar-header"><span id="category" class="visible-xs"><?php echo $text_category; ?></span>
-      <button type="button" class="btn btn-navbar navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-bars"></i></button>
-    </div>
-    <div class="collapse navbar-collapse navbar-ex1-collapse">
-      <ul class="nav navbar-nav">
+
+
+
+
+
+<div id="templatemo_content">
+    	
+        <div id="templatemo_content_left">
+        	<div class="templatemo_content_left_section">
+            	<h1>Categories</h1>
+      <?php if ($categories) { ?>
+            <ul class="nav navbar-nav">
         <?php foreach ($categories as $category) { ?>
         <?php if ($category['children']) { ?>
         <li class="dropdown"><a href="<?php echo $category['href']; ?>" class="dropdown-toggle" data-toggle="dropdown"><?php echo $category['name']; ?></a>
@@ -112,8 +103,13 @@
         <li><a href="<?php echo $category['href']; ?>"><?php echo $category['name']; ?></a></li>
         <?php } ?>
         <?php } ?>
-      </ul>
-    </div>
-  </nav>
-</div>
-<?php } ?>
+      </ul>	
+      <?php } ?>
+            	
+ </div>
+ </div>
+ </div>
+
+
+
+
