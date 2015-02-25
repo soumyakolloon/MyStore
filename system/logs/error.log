@@ -2453,3 +2453,11 @@
 2015-02-24 10:11:46 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/catalog/view/theme/mycustomtheme/template/common/home.tpl on line 9
 2015-02-24 10:11:50 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/catalog/view/theme/mycustomtheme/template/common/home.tpl on line 9
 2015-02-24 10:11:51 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/catalog/view/theme/mycustomtheme/template/common/home.tpl on line 9
+2015-02-25 3:45:44 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/catalog/view/theme/mycustomtheme/template/common/home.tpl on line 9
+2015-02-25 3:45:47 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/catalog/view/theme/mycustomtheme/template/common/home.tpl on line 9
+2015-02-25 3:45:51 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/catalog/view/theme/mycustomtheme/template/common/home.tpl on line 9
+2015-02-25 3:45:56 - PHP Notice:  Undefined variable: heading_title in /var/www/html/MyStore/catalog/view/theme/mycustomtheme/template/common/home.tpl on line 9
+2015-02-25 3:51:08 - PHP Notice:  Undefined variable: site_key in /var/www/html/MyStore/catalog/view/theme/default/template/product/product.tpl on line 106
+2015-02-25 3:51:14 - PHP Notice:  Undefined variable: site_key in /var/www/html/MyStore/catalog/view/theme/default/template/product/product.tpl on line 106
+2015-02-25 3:51:16 - PHP Notice:  Undefined variable: site_key in /var/www/html/MyStore/catalog/view/theme/default/template/product/product.tpl on line 106
+2015-02-25 3:51:21 - PHP Notice:  Undefined variable: site_key in /var/www/html/MyStore/catalog/view/theme/default/template/product/product.tpl on line 106
