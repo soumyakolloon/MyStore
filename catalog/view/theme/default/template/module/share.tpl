@@ -1,4 +1,4 @@
-<script src="../catalog/view/javascript/jquery/share/jquery.tabSlideOut.v1.3.js"></script>
+<script src="./catalog/view/javascript/jquery/share/jquery.tabSlideOut.v1.3.js"></script>
 <script type="text/javascript">
     $(function(){
         $('.slide-out-div').tabSlideOut({

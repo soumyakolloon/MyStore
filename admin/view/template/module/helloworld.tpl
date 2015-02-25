@@ -38,7 +38,7 @@
           <div class="form-group">
             <label class="col-sm-2 control-label" for="input-status"><?php echo $entry_status; ?></label>
             <div class="col-sm-10">
-              <select name="status" id="input-status" class="form-control">
+              <select name="helloworld_status" id="input-status" class="form-control">
                 <?php 
                
                 if ($helloworld_status) { ?>

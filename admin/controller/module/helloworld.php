@@ -79,9 +79,9 @@ class ControllerModuleHelloworld extends Controller {
 		
 		
 		if (isset($this->request->post['helloworld_status'])) {
-			$data['helloworld_status'] = $this->request->post['status'];
+			$data['helloworld_status'] = $this->request->post['helloworld_status'];
 		} else {
-			$data['helloworld_status'] = $this->config->get('status');
+			$data['helloworld_status'] = $this->config->get('helloworld_status');
 		}
 		
 		

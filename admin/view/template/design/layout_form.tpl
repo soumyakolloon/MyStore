@@ -1,4 +1,7 @@
-<?php echo $header; ?><?php echo $column_left; ?>
+<?php echo $header; ?><?php echo $column_left; 
+
+
+?>
 <div id="content">
   <div class="page-header">
     <div class="container-fluid">
@@ -79,11 +82,17 @@
               </tr>
             </thead>
             <tbody>
-              <?php $module_row = 0; ?>
+              <?php $module_row = 0;
+              
+              
+		 ?>
               <?php foreach ($layout_modules as $layout_module) { ?>
               <tr id="module-row<?php echo $module_row; ?>">
                 <td class="text-left"><select name="layout_module[<?php echo $module_row; ?>][code]" class="form-control">
-                    <?php foreach ($extensions as $extension) { ?>
+                    <?php foreach ($extensions as $extension) {
+						
+					
+						 ?>
                     <?php if (!$extension['module']) { ?>
                     <?php if ($extension['code'] == $layout_module['code']) { ?>
                     <option value="<?php echo $extension['code']; ?>" selected="selected"><?php echo $extension['name']; ?></option>
