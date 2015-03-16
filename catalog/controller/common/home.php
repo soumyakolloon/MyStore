@@ -23,4 +23,19 @@ class ControllerCommonHome extends Controller {
 			$this->response->setOutput($this->load->view('default/template/common/home.tpl', $data));
 		}
 	}
+
+
+	public function ebookSupplier()
+	{
+		$client = new SoapClient("http://connect6.gardners.com/ExternalRecOrder/EBookSendOrder.asmx?wsdl");
+		$response = $client->HelloGardners();
+		print_r($response); die();
+	}
+
+
+
+
+
+
 }
+

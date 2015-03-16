@@ -1,0 +1,110 @@
+---------- Date: 2015-03-13 07:29:28 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /MyStore/
+MOD DETAILS:
+   modFile   : /var/www/html/MyStore/vqmod/xml/vqmod_homepage.xml
+   id        : Replace the css property in heading title in Home page
+   version   : 1.0
+   vqmver    : 2.X
+   author    : Tuts+
+VQModObject::parseMods - Could not resolve path for [catalog/view/theme/default/template/common/home.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-03-13 07:33:52 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /MyStore/
+MOD DETAILS:
+   modFile   : /var/www/html/MyStore/vqmod/xml/vqmod_homepage.xml
+   id        : Replace the css property in heading title in Home page
+   version   : 1.0
+   vqmver    : 2.X
+   author    : Soumya K
+VQModObject::parseMods - Could not resolve path for [catalog/view/theme/default/template/common/home.tpl] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-03-13 09:30:21 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /MyStore/index.php
+MOD DETAILS:
+   modFile   : /var/www/html/MyStore/vqmod/xml/vqmod_page_nav.xml
+   id        : Replace the css property in heading title in Home page
+   version   : 1.0
+   vqmver    : 2.X
+   author    : Soumya K
+
+File Name    : catalog/view/theme/mycustomtheme/template/module/page_nav.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <ul class="pagination1">
+  <li>1 - Item 1 of 5</li>
+    <li>2 - Item 2 of 5</li>
+    <li>3 - Item 3 of 5</li>
+    <li>4 - Item 4 of 5</li>
+    <li>5 - Item 5 of 5</li>
+    
+</ul>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-03-13 09:32:53 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /MyStore/index.php
+MOD DETAILS:
+   modFile   : /var/www/html/MyStore/vqmod/xml/vqmod_page_nav.xml
+   id        : Replace the css property in heading title in Home page
+   version   : 1.0
+   vqmver    : 2.X
+   author    : Soumya K
+
+File Name    : catalog/view/theme/mycustomtheme/template/module/page_nav.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <ul class="pagination1"><li>1 - Item 1 of 5</li><li>2 - Item 2 of 5</li><li>3 - Item 3 of 5</li><li>4 - Item 4 of 5</li><li>5 - Item 5 of 5</li></ul>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-03-13 09:33:41 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /MyStore/index.php
+MOD DETAILS:
+   modFile   : /var/www/html/MyStore/vqmod/xml/vqmod_page_nav.xml
+   id        : Replace the css property in heading title in Home page
+   version   : 1.0
+   vqmver    : 2.X
+   author    : Soumya K
+
+File Name    : catalog/view/theme/mycustomtheme/template/module/page_nav.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <ul class="pagination1"><li>1 - Item 1 of 5</li>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-03-13 09:33:53 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /MyStore/index.php
+MOD DETAILS:
+   modFile   : /var/www/html/MyStore/vqmod/xml/vqmod_page_nav.xml
+   id        : Replace the css property in heading title in Home page
+   version   : 1.0
+   vqmver    : 2.X
+   author    : Soumya K
+
+File Name    : catalog/view/theme/mycustomtheme/template/module/page_nav.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <ul class="pagination1">
+	<li>1 - Item 1 of 5</li>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-03-13 09:35:01 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /MyStore/index.php
+MOD DETAILS:
+   modFile   : /var/www/html/MyStore/vqmod/xml/vqmod_page_nav.xml
+   id        : Replace the css property in heading title in Home page
+   version   : 1.0
+   vqmver    : 2.X
+   author    : Soumya K
+
+File Name    : catalog/view/theme/mycustomtheme/template/module/page_nav.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <ul class="pagination1">
+	<li>1 - Item 1 of 5</li>
+
+----------------------------------------------------------------------
+
+

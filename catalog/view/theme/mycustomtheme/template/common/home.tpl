@@ -1,5 +1,6 @@
 <?php echo $header; ?>
 <div class="container">
+    <h1>My Store </h1>
   <div class="row"><?php echo $column_left; ?>
     <?php if ($column_left && $column_right) { ?>
     <?php $class = 'col-sm-6'; ?>

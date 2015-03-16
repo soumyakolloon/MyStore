@@ -1,4 +1,11 @@
 <?php
+
+/**
+* Module for calendar
+* Author Soumya Kolloon Date: Feb 20/ 2015
+* Created from existing module
+**/
+
 class ControllerModuleCalendar extends Controller {
 	private $error = array(); 
 	

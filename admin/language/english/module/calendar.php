@@ -1,5 +1,10 @@
 <?php
 
+/**
+* Language class for Module calendar
+* Author Soumya Kolloon Date: Feb 20/ 2015
+**/
+
 // Heading
 $_['heading_title']    = 'Calendar Navigation';
 

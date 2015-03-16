@@ -1,3 +1,12 @@
+<?php 
+
+
+/**
+* Module for calendar
+* Author Soumya Kolloon Date: Feb 20/ 2015
+**/
+?>
+
 <?php echo $header; ?>
 
 <div id="content">

@@ -27,8 +27,7 @@ $(document).ready(function() {
     <li>3 - Item 3 of 5</li>
     <li>4 - Item 4 of 5</li>
     <li>5 - Item 5 of 5</li>
-    
-</ul>
+ </ul>
 
 <div class="clearing"></div>
 

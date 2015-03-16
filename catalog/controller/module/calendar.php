@@ -1,4 +1,11 @@
 <?php
+
+/**
+* Module for calendar: front view controller
+* Author Soumya Kolloon Date: Feb 20/ 2015
+**/
+
+
  class ControllerModuleCalendar extends Controller {
 	
 	public function index() {

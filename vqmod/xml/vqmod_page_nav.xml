@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modification>
+   <id>Replace the css property in heading title in Home page</id>
+   <version>1.0</version>
+   <vqmver>2.X</vqmver>
+   <author>Soumya K</author>
+   <file name="catalog/view/theme/mycustomtheme/template/module/page_nav.tpl">
+       <operation info="Replace the css property in heading title in Home page">
+       	<search position="replace"><![CDATA[      
+				<ul class="pagination1">
+           ]]>
+</search>
+ <add><![CDATA[
+        <ul class="pagination1"><li>pagination</li></ul>
+           ]]></add>
+
+           </operation>
+   </file>
+</modification>
